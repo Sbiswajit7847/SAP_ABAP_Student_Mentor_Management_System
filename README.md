@@ -43,10 +43,6 @@ The report displays:
 * Mentor Number
 * Mentor Name
  
-## Project Screenshots
- 
-Screenshots of the selection screen and ALV output are included in the `screenshots` folder.
- 
 ## Purpose
  
 This project was developed as part of my SAP ABAP training to gain practical experience in database retrieval, internal table processing, and ALV report development.
